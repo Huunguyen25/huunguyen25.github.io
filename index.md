@@ -10,10 +10,11 @@ graduating in 2027. I'm an experienced computer programmer, having started as a 
 
 <br> <!-- This line break separates the paragraph and the table -->
 
-|  Languages    |    Level    |
-|---------------|-------------|
-|<div style="display: flex; flex-direction: column; justify-content: center; align-items: center;"><img src="images/Java_logo.png" alt="drawing" width="20"/><p style="text-align: center;">Java</p></div>           |Intermediate |
-|<div style="display: flex; flex-direction: column; justify-content: center; align-items: center;"><img src="images/cplusplus_logo.png" alt="drawing" width="30"/><p style="text-align: center;">C++</p></div>             |Beginner     |
+|  Languages  |    Level    |
+|-------------|-------------|
+|<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100px;"><img src="images/Java_logo.png" alt="drawing" width="20"/><p style="text-align: center;">Java</p></div>         |Intermediate |
+|<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100px;"><img src="images/cplusplus_logo.png" alt="drawing" width="30"/><p style="text-align: center;">C++</p></div>           |Beginner     |
+
 
 
 
