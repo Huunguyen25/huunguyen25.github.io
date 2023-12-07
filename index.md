@@ -11,7 +11,7 @@ graduating in 2027. I'm an experienced computer programmer, having started as a 
 |##### Languages    |##### Level       |
 |-------------|-------------|
 |<img src="images/Java_logo.png" alt="drawing" width="20"/>  Java         |Intermediate |
-|<img src="images/cplusplus_logo.png" alt="drawing"> width="10" C++          |Beginner     |
+|<img src="images/cplusplus_logo.png" alt="drawing" width="10"/> C++          |Beginner     |
 
 ## Computer Science Projects
 
