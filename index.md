@@ -10,18 +10,21 @@ My GitHub page is [Huunguyen25](https://github.com/huunguyen25)
 
 ### CPSC 120
 
-* [Lab 7]()
+* [Lab 10](https://github.com/cpsc-fall-2023/cpsc-120-lab-10-adrian-huu-2)
 
-    * Lab 7, part 2 was a favorite because I was always curious about how the
-    game Blackjack works. I was able to write functions for the first time
-    that calculate the correct value of a Blackjack hand no matter how many
-    Aces were dealt.
+    * Lab 10, part 1 and 2 was about reading and using CSV files. I found this lab 
+    helpful for the future when working with spreadsheets and any websites with data 
+    in a spreadsheet manner. I found it helpful and practical when data and programming 
+    together. I also understand the importance of scalability. As files grow, they are 
+    straightforward to access and manage using code. Thus, I found this lab very helpful.
 
 * [Lab 11](https://github.com/cpsc-fall-2023/cpsc-120-lab-11-huu-luis)
 
-    * Lab 11, both part 1 and 2, were a few of the challenging, yet fun labs.
-    I found lab 11 to be extremely fun because it introduced me to classes and
-    initializer lists. It also introduced me to PRNG usage which was easy
+    * Lab 11, parts 1 and 2, were a few challenging yet fun labs. I found lab 11 
+    to be extremely fun because it introduced me to classes and initializer lists. 
+    It also introduced me to the usage of PRNG and the different algorithms used to 
+    generate pseudo-random numbers.
+
 
 * [Lab 12](https://github.com/cpsc-fall-2023/cpsc-120-lab-12-huu-dylan-2)
 
