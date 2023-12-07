@@ -8,10 +8,10 @@ Hi, I'm Huu Nguyen! I was born and raised in Quang Ngai, Vietnam. When I was nin
 I'm proud to say that I attended Patrick Henry High School, where I excelled academically. I'm a freshman at California State University of Fullerton, 
 graduating in 2027. I'm an experienced computer programmer, having started as a junior in high school. My language is Java, and I am an intermediate-level coder at Java. Developing a Chat App based on my teacher's code was one of my most significant achievements. Though I didn't finish it, it was an outstanding project, and I'm very proud that I got to learn React, HTML, Javascript, CSS, and other services.
 
-|>languages    |>level       |
+|##### Languages    |##### Level       |
 |-------------|-------------|
-|<img src="images/Java_logo.png" alt="drawing" width="50"/>  Java         |Intermediate |
-|<img src="images/cplusplus_logo.png" alt="drawing" width="50" C++          |Beginner     |
+|<img src="images/Java_logo.png" alt="drawing" width="20"/>  Java         |Intermediate |
+|<img src="images/cplusplus_logo.png" alt="drawing"> width="10" C++          |Beginner     |
 
 ## Computer Science Projects
 
