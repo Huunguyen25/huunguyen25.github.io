@@ -2,10 +2,18 @@
 
 This is my home page! My name is Huu Nguyen and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science.
 
-## Computer Science Projects
-<img src="images/memoji_279x332.PNG" alt="drawing" width="100"/>
+#### About me 
+<img src="images/memoji_279x332.PNG" alt="drawing" width="150"/>
+Hi, I'm Huu Nguyen! I was born and raised in Quang Ngai, Vietnam. When I was nine, my family and I moved to the United States for a better future.
+I'm proud to say that I attended Patrick Henry High School, where I excelled academically. I'm a freshman at California State University of Fullerton, 
+graduating in 2027. I'm an experienced computer programmer, having started as a junior in high school. My language is Java, and I am an intermediate-level coder at Java. Developing a Chat App based on my teacher's code was one of my most significant achievements. Though I didn't finish it, it was an outstanding project, and I'm very proud that I got to learn React, HTML, Javascript, CSS, and other services.
 
-![](images/memoji_279x332.PNG)
+|>languages    |>level       |
+|-------------|-------------|
+|<img src="images/Java_logo.png" alt="drawing" width="50"/>  Java         |Intermediate |
+|<img src="images/cplusplus_logo.png" alt="drawing" width="50" C++          |Beginner     |
+
+## Computer Science Projects
 
 My GitHub page is [Huunguyen25](https://github.com/huunguyen25)
 
@@ -33,6 +41,3 @@ My GitHub page is [Huunguyen25](https://github.com/huunguyen25)
     in. It was one of the best because I worked on graphic manipulation 
     before with Java, but I have never combined gifs into one gif. From 
     this lab, I have learned the new Magick API.
-
-
-### About me
