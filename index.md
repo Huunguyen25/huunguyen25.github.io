@@ -32,3 +32,7 @@ My GitHub page is [Huunguyen25](https://github.com/huunguyen25)
     in. It was one of the best because I worked on graphic manipulation 
     before with Java, but I have never combined gifs into one gif. From 
     this lab, I have learned the new Magick API.
+
+
+### About me
+    
